@@ -1,2 +1,0 @@
-# MLNotes
-Machine Learning Notes
